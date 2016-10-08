@@ -1,11 +1,19 @@
 # Firebase ORM
 
-This is an extension to the Firebase JavaScript library to manage relations between users, objects, and servers. It defines a security model, relationship-mapping scheme, and 
+This is an extension to the Firebase JavaScript library to manage relations between users, objects, and servers. It defines a security model, relationship-mapping scheme, and scalable queue for server-side processing.
 
 - [Security](#Security)
 - [Database](#Database)
 - [Object](#Object)
+- [Lambda](#Lambda)
 
+# Security
+
+- paths used
+  - data
+  - lambda
+  - user
+- how objects work
 
 # Object
 
